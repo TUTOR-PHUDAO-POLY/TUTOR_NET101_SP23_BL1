@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TUTOR_NET101_SP23_BL1
+namespace TUTOR_NET101_SP23_BL1_Buoi1
 {
     internal class Program
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUTOR_NET101_SP23_BL1", "TUTOR_NET101_SP23_BL1\TUTOR_NET101_SP23_BL1.csproj", "{29E902CB-84C9-4E1B-A827-8410F92EBB95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUTOR_NET101_SP23_BL1_Buoi1", "TUTOR_NET101_SP23_BL1\TUTOR_NET101_SP23_BL1_Buoi1.csproj", "{29E902CB-84C9-4E1B-A827-8410F92EBB95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
