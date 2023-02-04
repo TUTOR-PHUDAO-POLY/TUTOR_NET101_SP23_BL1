@@ -118,61 +118,62 @@ namespace TUTOR_NET101_SP23_BL1_Buoi1
             //Console.WriteLine($"tích: {tich2}");
 
             //Bài 5: Viết chương trình nhập vào tháng và in ra số ngày của tháng đó trong năm.
-            Console.WriteLine("Nhập tháng: ");
-            int th = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Nhập năm: ");
-            int nam = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Nhap thang : ");
+            //string Sthang = Console.ReadLine();
+            //Console.Write("Nhap nam : ");
+            //string Snam = Console.ReadLine();
 
-            if (th > 0 && th <= 12)
-            {
-                switch (th)
-                {
-                    case 1:
-                        Console.WriteLine($"Tháng {th}/{nam} có 31 ngày");
-                        break;
-                    case 2:
-                        if (nam % 400 == 0 || (nam % 4 == 0 && nam % 100 != 0))
-                        {
-                            Console.WriteLine($"Tháng {th}/{nam} có 29 ngày");
-                        }
-                        else
-                        {
-                            Console.WriteLine($"Tháng {th}/{nam} có 28 ngày");
-                        }
-                        
-                        break;
-                    case 3:
-                        Console.WriteLine($"Tháng {th}/{nam} có 31 ngày");
-                        break;
-                    case 4:
-                        Console.WriteLine($"Tháng {th}/{nam} có 30 ngày");
-                        break;
-                    case 5:
-                        Console.WriteLine($"Tháng {th}/{nam} có 31 ngày");
-                        break;
-                    case 6:
-                        Console.WriteLine($"Tháng {th}/{nam} có 30 ngày");
-                        break;
-                    case 7:
-                        Console.WriteLine($"Tháng {th}/{nam} có 31 ngày");
-                        break;
-                    case 8:
-                        Console.WriteLine($"Tháng {th}/{nam} có 31 ngày");
-                        break;
-                    case 9:
-                        Console.WriteLine($"Tháng {th}/{nam} có 30 ngày");
-                        break;
-                    case 10:
-                        Console.WriteLine($"Tháng {th}/{nam} có 31 ngày");
-                        break;
-                    case 11:
-                        Console.WriteLine($"Tháng {th}/{nam} có 30 ngày");
-                        break;
-                    case 12:
-                        Console.WriteLine($"Tháng {th}/{nam} có 31 ngày");
-                        break;
-                }
-            }
+            //int th = int.Parse(Sthang);
+            //int nm = int.Parse(Snam);
+            //int songay = 0;
+
+            //if (th >= 1 && th <= 12)
+            //{
+            //    switch (th)
+            //    {
+            //        case 1:
+            //        case 3:
+            //        case 5:
+            //        case 7:
+            //        case 8:
+            //        case 10:
+            //        case 12: songay = 31; break;
+            //        case 4:
+            //        case 6:
+            //        case 9:
+            //        case 11: songay = 30; break;
+
+            //        case 2:
+            //            if (nm % 400 == 0 || (nm % 4 == 0 && nm % 100 != 0))    // nam nhuan
+            //                songay = 29;
+            //            else
+            //                songay = 28;
+            //            break;
+            //    }
+
+            //    Console.Write("=> Thang " + th + "/" + nm + " co " + songay + " ngay\n");
+            //}
+            //else
+            //    Console.Write("=> Thang khong hop le!\n");
+            //Console.ReadLine();
+
+            //Toán tử 3 ngôi
+            //Console.WriteLine("Nhập n: ");
+            //int baNgoi = Convert.ToInt32(Console.ReadLine());
+
+            //string inRa = "";
+
+
+            //inRa = (baNgoi > 10) ? "N lớn hơn 10" : "N Nhỏ hơn 10";
+
+            //if (baNgoi > 10)
+            //{
+            //    inRa = "N lớn hơn 10";
+            //}
+            //else
+            //{
+            //    inRa = "N Nhỏ hơn 10";
+            //}
 
             Console.ReadKey();
         }
