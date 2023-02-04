@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Desktop\CodeTutorc#1\TUTOR_NET101_SP23_BL1\bin\Debug\TUTOR_NET101_SP23_BL1.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\CodeTutorc#1\TUTOR_NET101_SP23_BL1\bin\Debug\TUTOR_NET101_SP23_BL1.exe
+C:\Users\ADMIN\OneDrive\Desktop\CodeTutorc#1\TUTOR_NET101_SP23_BL1\bin\Debug\TUTOR_NET101_SP23_BL1.pdb
+C:\Users\ADMIN\OneDrive\Desktop\CodeTutorc#1\TUTOR_NET101_SP23_BL1\obj\Debug\TUTOR_NET101_SP23_BL1_Buoi1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\CodeTutorc#1\TUTOR_NET101_SP23_BL1\obj\Debug\TUTOR_NET101_SP23_BL1_Buoi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Desktop\CodeTutorc#1\TUTOR_NET101_SP23_BL1\obj\Debug\TUTOR_NET101_SP23_BL1_Buoi1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\CodeTutorc#1\TUTOR_NET101_SP23_BL1\obj\Debug\TUTOR_NET101_SP23_BL1.exe
+C:\Users\ADMIN\OneDrive\Desktop\CodeTutorc#1\TUTOR_NET101_SP23_BL1\obj\Debug\TUTOR_NET101_SP23_BL1.pdb
