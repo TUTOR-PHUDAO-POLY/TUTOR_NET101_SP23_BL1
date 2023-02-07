@@ -57,17 +57,18 @@ namespace TUTOR_NET101_SP23_BL1_Buoi2
         public void XoaTheoMa(string maCanXoa)
         {
             // for có thể xóa nhiều hơn 1 phần tử
-            for (int i = 0; i < listDongVat.Count(); )
-            {
-                if (listDongVat[i].Ma == maCanXoa)
-                {
-                    listDongVat.Remove(listDongVat[i]);
-                }
-                else
-                {
-                    i++;
-                }    
-            }
+            //for (int i = 0; i < listDongVat.Count(); )
+            //{
+            //    // Khi xuất hiện phần tử để xóa => i giữ nguyên giá trị, không xuất hiện => i++ để kiểm tra phần tử tiếp theo
+            //    if (listDongVat[i].Ma == maCanXoa)
+            //    {
+            //        listDongVat.Remove(listDongVat[i]);
+            //    }
+            //    else
+            //    {
+            //        i++;
+            //    }    
+            //}
 
             // foreach khi xóa nhiều nhất 1 phần tử
             //foreach (var dv in listDongVat)
