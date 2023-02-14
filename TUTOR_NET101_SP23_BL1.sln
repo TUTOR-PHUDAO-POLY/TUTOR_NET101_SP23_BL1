@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUTOR_NET101_SP23_BL1_Buoi1", "TUTOR_NET101_SP23_BL1\TUTOR_NET101_SP23_BL1_Buoi1.csproj", "{29E902CB-84C9-4E1B-A827-8410F92EBB95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUTOR_NET101_SP23_BL1_Buoi3", "TUTOR_NET101_SP23_BL1_Buoi3\TUTOR_NET101_SP23_BL1_Buoi3.csproj", "{BC682464-A9EA-4EE2-9DC3-F1186AD10D4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{29E902CB-84C9-4E1B-A827-8410F92EBB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E902CB-84C9-4E1B-A827-8410F92EBB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E902CB-84C9-4E1B-A827-8410F92EBB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC682464-A9EA-4EE2-9DC3-F1186AD10D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC682464-A9EA-4EE2-9DC3-F1186AD10D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC682464-A9EA-4EE2-9DC3-F1186AD10D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC682464-A9EA-4EE2-9DC3-F1186AD10D4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
