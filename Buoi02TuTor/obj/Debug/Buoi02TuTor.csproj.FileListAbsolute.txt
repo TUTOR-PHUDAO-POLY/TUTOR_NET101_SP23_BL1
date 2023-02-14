@@ -1,8 +1,0 @@
-C:\Users\ADMIN\OneDrive\Desktop\TuTorC#1\Buoi02TuTor\bin\Debug\Buoi02TuTor.exe.config
-C:\Users\ADMIN\OneDrive\Desktop\TuTorC#1\Buoi02TuTor\bin\Debug\Buoi02TuTor.exe
-C:\Users\ADMIN\OneDrive\Desktop\TuTorC#1\Buoi02TuTor\bin\Debug\Buoi02TuTor.pdb
-C:\Users\ADMIN\OneDrive\Desktop\TuTorC#1\Buoi02TuTor\obj\Debug\Buoi02TuTor.csproj.AssemblyReference.cache
-C:\Users\ADMIN\OneDrive\Desktop\TuTorC#1\Buoi02TuTor\obj\Debug\Buoi02TuTor.csproj.SuggestedBindingRedirects.cache
-C:\Users\ADMIN\OneDrive\Desktop\TuTorC#1\Buoi02TuTor\obj\Debug\Buoi02TuTor.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\OneDrive\Desktop\TuTorC#1\Buoi02TuTor\obj\Debug\Buoi02TuTor.exe
-C:\Users\ADMIN\OneDrive\Desktop\TuTorC#1\Buoi02TuTor\obj\Debug\Buoi02TuTor.pdb
