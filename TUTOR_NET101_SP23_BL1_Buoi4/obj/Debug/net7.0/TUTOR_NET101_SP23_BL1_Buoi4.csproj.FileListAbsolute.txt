@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\bin\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.exe
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\bin\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.deps.json
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\bin\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\bin\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.dll
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\bin\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.pdb
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.dll
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\refint\TUTOR_NET101_SP23_BL1_Buoi4.dll
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.pdb
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\TUTOR_NET101_SP23_BL1_Buoi4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder\TUTOR_NET101_SP23_BL1_Buoi4\obj\Debug\net7.0\ref\TUTOR_NET101_SP23_BL1_Buoi4.dll
